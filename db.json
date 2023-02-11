@@ -1,19 +1,2162 @@
 {
-"posts" : [
-  {
-    "id": 1,
-    "title": "Post 1",
-    "description": "this is description 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2",
-    "description": "this is description 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3",
-    "description": "this is description 3"
-  }
-]
+"influencers" : {
+  "isSuccess": true,
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "vInfluencerId": "abhishek_kar",
+      "vUserId": "abhishek_kar",
+      "vName": "Abhishek Kar",
+      "vAbout": "Abhishek Kar is a full time trader cum investor who is on an endless pursuit to guide people on various aspects of stock markets. He has been a keynote speaker at various forums and has also been invited to premium institutions like IIM,IIT,Symbiosis etc to share his experience.\r\n\r\nIn his You Tube channel, he talks about various topics related to finance, business and stock market. He explains everything in a very simple manner so that things become easy for even the common man to understand.\r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/XJ/kx/XJkxjJpZj9PKVWU.jpg",
+      "lStrategies": [
+        {
+          "name": "VWAP(Volume weighted average price) strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=hIH8_lomEc8"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "xEnFdHuXpPXT0jE",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/XJ/kx/XJkxjJpZj9PKVWU.jpg",
+          "vClubName": "General",
+          "vOwnerId": "abhishek_kar",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "akash_kundur",
+      "vUserId": "akash_kundur",
+      "vName": "Akash Kundur",
+      "vAbout": "Akash Kundur who is the owner of the channel left his engineering to become a full-time trader. To complete this journey, he took up various courses, learnt a lot about each and every concept of trading, and gained experience by trying out different strategies. \r\n\r\nThe sole purpose of his You Tube channel is to impart his viewers all the knowledge that he has gained over all these years. He wants his viewers to make well informed decisions after watching his videos.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/uT/cF/uTcFlKQ8BUPX16g.jpg",
+      "lStrategies": [
+        {
+          "name": "breakout trading strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=WldcDaH63GE"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "IzHVIVa1lnyEa7F",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/uT/cF/uTcFlKQ8BUPX16g.jpg",
+          "vClubName": "General",
+          "vOwnerId": "akash_kundur",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "akshrivastava",
+      "vUserId": "akshrivastava",
+      "vName": "Akshat Shrivastava",
+      "vAbout": "Akshat explains everything related to finance in a very simple manner. He talks not only about stock markets and trading but also tells about other good investment methods. \r\n\r\nHe explains everything in such a simple manner that everything becomes very easy for even the common man to understand.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/ak/sh/akshrivastava.jpg",
+      "lStrategies": [
+        {
+          "name": "Momentum Investing",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=_6FpyGvioL0"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+
+      ]
+    },
+    {
+      "vInfluencerId": "alok_jain",
+      "vUserId": "alok_jain",
+      "vName": "Alok Jain",
+      "vAbout": "Alok Jain has been in the Indian stock market for more than 25 years. He is passionate about building mechanical trading and investing models to invest in the markets that can generate superior returns. \r\n\r\nHis dream is to try help others achieve Financial Independence early so that life can be lived to the full, like it has for him.\r\n\r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/ax/C1/axC1OJP4GXjc03H.jpg",
+      "lStrategies": [
+        {
+          "name": "Momentum trading",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=R8qYEOZF460"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "R1yxb5ubWMI6MNZ",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/ax/C1/axC1OJP4GXjc03H.jpg",
+          "vClubName": "General",
+          "vOwnerId": "alok_jain",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "anant_ladha",
+      "vUserId": "anant_ladha",
+      "vName": "Anant Ladha",
+      "vAbout": "Anant Ladha is a CFA, CA CFP LL.B. and learner of financial market. This channel has content related to Financial world and stock market. \r\n\r\nThis channel is only for information and educational purpose. \r\nThe sole purpose of this channel is to educate the subscriber about financial markets and stock trading.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/Mt/3V/Mt3VWvPZJHLsiry.jpg",
+      "lStrategies": [
+        {
+          "name": "Bulk Trading Strategy",
+          "points": "150",
+          "url": "https://www.youtube.com/watch?v=AxcRv6op7uc"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "t1RNIz389AyOSZ9",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/Mt/3V/Mt3VWvPZJHLsiry.jpg",
+          "vClubName": "General",
+          "vOwnerId": "anant_ladha",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "anish_thakur",
+      "vUserId": "anish_thakur",
+      "vName": "Anish Thakur",
+      "vAbout": "Anish Thakur mainly focuses on sharing the correct trading principles. He provides you with a simplified picture of how trading can be done to earn consistent profits from the stock market. \r\nWhether you want to become an intra-day trader, options, or positional trader, Anish Thakur provides you with the core skills and exact knowledge you need to become a successful trader.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/Ke/Pd/KePdLgFfdjY8aDE.jpg",
+      "lStrategies": [
+        {
+          "name": "Open high Open low strategy",
+          "points": "300",
+          "url": "https://www.youtube.com/watch?v=4iPEKSo_vwY"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "booming_bulls",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/Ke/Pd/KePdLgFfdjY8aDE.jpg",
+          "vClubName": "Booming Bulls",
+          "vOwnerId": "anish_thakur",
+          "vClubType": "trading",
+          "vClubSubtype": null,
+          "mClubAttrs": {
+            "Basic Strategy": "RSI Stochastic",
+            "numTrades": "",
+            "Margin": ""
+          },
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        },
+        {
+          "vId": "tSw7DSzlWp4ldsP",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/Ke/Pd/KePdLgFfdjY8aDE.jpg",
+          "vClubName": "General",
+          "vOwnerId": "anish_thakur",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "ankit_yadav",
+      "vUserId": "ankit_yadav",
+      "vName": "Ankit Yadav",
+      "vAbout": "The main objective behind creating this channel is that Ankit wants to make people financially literate.\r\n\r\nHe wants to spread awareness about finance and make videos especially in hindi so that anyone can understand it very easily. \r\n\r\nThe channel \"Market Maestroo\" covers wide array of finance topics like mutual funds, banking, tax planning, stock market etc.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/0P/XV/0PXVE4UUrae0PDp.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "zZXBN7c4HZa74PT",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/0P/XV/0PXVE4UUrae0PDp.jpg",
+          "vClubName": "General",
+          "vOwnerId": "ankit_yadav",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "ankur_warikoo",
+      "vUserId": "ankur_warikoo",
+      "vName": "Ankur Warikoo",
+      "vAbout": "Ankur Warikoo warikoo is a serial entrepreneur, a bestselling author,  an online educator and a content creator.\r\n\r\nAnkur Warikoo is an Internet Entrepreneur and is one of India’s top content creators. He is also a bestselling author and conducts courses online as an educator. In his spare time, warikoo loves to mentor entrepreneurs and act as an angel-investor. \r\n\r\nHe is also a bestselling author. His first book “DO EPIC SHIT” released in 2021 and hit #1 in India on the Nielsen bestsellers list. \r\n\r\nWarikoo holds an MBA degree from the Indian School of Business (Class of 2006) where he was awarded the Young Leader Award.\r\n\r\nAnkur was part of Fortune Magazine’s 40 under 40 List for India, Forbes Top 100 Digital Creators list 2022, LinkedIn India’s Top Voices for 2018, 2019 and 2020, LinkedIn India’s Spotlight List and India’s Top Executives under 40 by Business Today.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/I8/GL/I8GLL6qg4tlfVoi.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "mM5ztLnsRqFIl5f",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/I8/GL/I8GLL6qg4tlfVoi.jpg",
+          "vClubName": "General",
+          "vOwnerId": "ankur_warikoo",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "asmita_patel",
+      "vUserId": "asmita_patel",
+      "vName": "Asmita Patel",
+      "vAbout": "Ms. Asmita Patel has an experience of over 16 years in stock market trading. She is also is the mentor of many successful traders in the market. \r\n\r\nShe has helped create many transformational journeys. Her mission is to make India trade. She wants to spread stock market education to every individual. She wants to break myths and make people believe that a living can be made out of stock market trading. \r\n\r\nIt is her mission to provide tools and strategies that you will need to transcend beyond your fears and limiting beliefs about the stock market.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/HW/4G/HW4GXupGasneIr2.jpg",
+      "lStrategies": [
+        {
+          "name": "15 minutes a day trading strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=96nT-6ETa2k"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "IsSD2w4ifMtgUeB",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/HW/4G/HW4GXupGasneIr2.jpg",
+          "vClubName": "General",
+          "vOwnerId": "asmita_patel",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "asset_yogi",
+      "vUserId": "asset_yogi",
+      "vName": "Asset Yogi",
+      "vAbout": "Mukul Malik in his channel \"AssetYogi\" explains everything about finance in a very simple manner. Asset Yogi channel is your complete guide for everything about money, investments & business. \r\n\r\n\r\nThe objective of AssetYogi is to spread financial literacy in the language of common man. On this channel you will get the best in class knowledge and tools that were only available to corporates earlier.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/qT/YU/qTYUSTHmx6obpI8.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "s77oCBnzeFAOvvu",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/qT/YU/qTYUSTHmx6obpI8.jpg",
+          "vClubName": "General",
+          "vOwnerId": "asset_yogi",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "atul_patel",
+      "vUserId": "atul_patel",
+      "vName": "Atul Patel",
+      "vAbout": "Atul Patel, a young entrepreneur, started his stock market journey in 2019 with just Rs. 7000. \r\n\r\nHe felt very demotivated after he failed in class 12th. So he decided to change his life completely and started the stock market journey.\r\n\r\nAs a result of his hard work and dedication, he is now managing his portfolio worth over Rs. 1 Crore.\r\n\r\nThe 23 year old Atul has already mentored over 4000 students and turned them into full time traders.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/3C/zA/3CzAfBkizX5Xhct.jpg",
+      "lStrategies": [
+        {
+          "name": "9:43 strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=z-ea6GW6id0"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "iUbGsSr7fB80LRC",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/3C/zA/3CzAfBkizX5Xhct.jpg",
+          "vClubName": "General",
+          "vOwnerId": "atul_patel",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "baap_chart",
+      "vUserId": "baap_chart",
+      "vName": "Baap Chart",
+      "vAbout": "This channel is based on various strategies related to index calls, which can be either hedging or unidirectional. These strategies have been formulated over years.\r\n\r\nMohammad Nasir has years of experience in index trading and this channel imparts that knowledge to the viewers to improve their trading experience. \r\n\r\nAccording to Mohammad Nasir, trading and investing is a long journey. You can't become successful in it overnight. If you really want to make a career in trading then you will have to give time to it.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/b3/wb/b3wb7qCulrlvPX1.jpg",
+      "lStrategies": [
+        {
+          "name": "325 option buying strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=4_KCUsRy68g"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "uGeixGir0HuuhGx",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/b3/wb/b3wb7qCulrlvPX1.jpg",
+          "vClubName": "General",
+          "vOwnerId": "baap_chart",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "bhuushan_god",
+      "vUserId": "bhuushan_god",
+      "vName": "Bhuushan Godbole",
+      "vAbout": "The channel \"Aryaamoney\" focuses on teaching the viewer about the stock market, smart trading, & investing strategies in stock market. \r\n\r\nThe channel provides content which can help the viewer to start investing and trading stocks with proven methodology and confidence to reap great benefits. \r\n\r\nAccording the owner, Mr. Bhuushan Godbole, there are a number of stock market trainers out there, but you need a trustworthy and reliable guide to help you chisel out the best strategy to reap the best profits out of stock market trading. This is exactly what the channel provides.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/rx/0t/rx0tIz63G1R0JsI.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "qtmPOCmVCEHlQW8",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/rx/0t/rx0tIz63G1R0JsI.jpg",
+          "vClubName": "General",
+          "vOwnerId": "bhuushan_god",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "chetan_mirani",
+      "vUserId": "chetan_mirani",
+      "vName": "Chetan Mirani",
+      "vAbout": "Chetan and Bhavesh in their You Tube channel \"Paisa to Banega\" provide Indian youngsters best insights on investment and trading. By subscribing to the channel, you will get access to a plethora of unbiased knowledge applicable in real market scenarios.\r\n\r\nChetan Mirani & Bhavesh Bhavsar ventured into the stock market industry at a very young age. Both finance youtubers faced lots of ups and down in their careers. The duo made a lot of mistakes. This empowered them to help their viewers avoid making them. Chetan and Bhavesh are here to provide money, business and wealth knowledge not available in classrooms.\r\n\r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/4p/ym/4pymQFDanjl9pjS.jpg",
+      "lStrategies": [
+        {
+          "name": "mid-market strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=8-uJYdvZUag"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "nqQ0dq5bwzUxFVa",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/4p/ym/4pymQFDanjl9pjS.jpg",
+          "vClubName": "General",
+          "vOwnerId": "chetan_mirani",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "daice_paul",
+      "vUserId": "daice_paul",
+      "vName": "Daice Paul",
+      "vAbout": "Daice Paul in his You Tube channel \"Smart Trader\" covers the length and breadth of stock trading, market developments, platform navigation, stock selection. \r\n\r\nHis videos cover everything that he’s learnt from the do’s and don’ts, his analyses, and the experience from which stock market novices can be built up. Every once in a while he does the occasional QnA session to help beginners figure their way out. ",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/f4/C7/f4C7MRjQFvPp308.jpg",
+      "lStrategies": [
+        {
+          "name": "+0.25 buy side or -0.25 sell side strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=WXzVsoaaXlI"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "z3AcuZ9ERRhQEnb",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/f4/C7/f4C7MRjQFvPp308.jpg",
+          "vClubName": "General",
+          "vOwnerId": "daice_paul",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "deepak_kumar",
+      "vUserId": "deepak_kumar",
+      "vName": "Deepak Kumar",
+      "vAbout": "Deepak Kumar is an expert in trading investing, set up and strategies. He started his YouTube journey on Jan 14, 2019 and provides daily market analysis.\r\n\r\nIn his You Tube channel \"Invest for wealth\", he talks about RSI indicators, Nifty, Sensex, Bank Nifty, options, stock market, live Trading, Intraday Trading, trading psychology, stock market beginners to advance, candlestick analysis, risk management, short straddle, compound investing, price action, risk reward ratio trading, IPOs, commodity trading, trading affirmation, cryptocurrency, option chain analysis, box pattern strategy, weekly market analysis, forex trading, mistakes, swing trading etc. ",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/hi/4A/hi4Aes3v3NduBSW.jpg",
+      "lStrategies": [
+        {
+          "name": "EMA combined with price action",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=LjpU1rq9XEw"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "q67XmHDZcDhHQ5a",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/hi/4A/hi4Aes3v3NduBSW.jpg",
+          "vClubName": "General",
+          "vOwnerId": "deepak_kumar",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "dharmik_thakkar",
+      "vUserId": "dharmik_thakkar",
+      "vName": "Dharmik Thakkar",
+      "vAbout": "The ultimate purpose of investment is to invest in the right kind of stocks that would give good returns. With this vision, Gujarat based young entrepreneur Dharmik Thakkar started his stock market venture and developed the brand Dharmik.\r\n\r\nUsing all his experience, Dharmik provides the best stock market investment suggestions to his viewers. He first analyses the risk taking ability of the investor and accordingly provides suggestions.\r\n\r\nIn the words of Hardik \"I always say the stock market is not rocket science, keep it simple. But at the same time being cautious and well-informed is vital to stay afloat in the market.”",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/ek/Mq/ekMqzk617Nd3RYX.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "KBDYS6dH5emk7Ys",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/ek/Mq/ekMqzk617Nd3RYX.jpg",
+          "vClubName": "General",
+          "vOwnerId": "dharmik_thakkar",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "erkamal_mehta",
+      "vUserId": "erkamal_mehta",
+      "vName": "Er Kamal Mehta",
+      "vAbout": "Kamal Mehta teaches everything about stock market from scratch. He explains everything in a very simple manner and helps you master the stock market by learning some methods and tricks. \r\nHis sole purpose is to educate you about the stock market and doesn't believe in giving tips about stocks.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/p2/JQ/p2JQM9x47ChnHPX.jpg",
+      "lStrategies": [
+        {
+          "name": "breakout trading strategy",
+          "points": "250",
+          "url": "https://www.youtube.com/watch?v=uTd4zgmNCg0&t=207s"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "fB6A6s4ZulabXsN",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/p2/JQ/p2JQM9x47ChnHPX.jpg",
+          "vClubName": "General",
+          "vOwnerId": "erkamal_mehta",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "ghanshyam_yadav",
+      "vUserId": "ghanshyam_yadav",
+      "vName": "Ghanshyam Yadav",
+      "vAbout": "Ghanshyam is a bank nifty options trader. He runs 2 youtube channels, namely, \"Art of trading\" and \"Ghanshyam tech\". \r\n\r\nHe runs his channel \"Ghanshyam tech\" for all those who want to learn about technical analysis of share market charts. He explains everything in a very simple manner.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/wW/uC/wWuCBpilsf0qV73.jpg",
+      "lStrategies": [
+        {
+          "name": "Breakout trading",
+          "points": "200",
+          "url": "https://www.youtube.com/watch?v=7FzLVPdKe1s&t=231s"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "pwCN8PAOIrIpq1a",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/wW/uC/wWuCBpilsf0qV73.jpg",
+          "vClubName": "General",
+          "vOwnerId": "ghanshyam_yadav",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "hardeep_singh",
+      "vUserId": "hardeep_singh",
+      "vName": "Hardeep Singh",
+      "vAbout": "Hardeep Singh is the founder of investaru official. He is a stock market investor since 10 years. He runs this platform to educate viewers about stock market investment.\r\n\r\nHe explains each and every concept in a very simple manner. He  advises to always invest in fundamentally strong stocks.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/b9/iD/b9iDRbtaZkrTmsZ.jpg",
+      "lStrategies": [
+        {
+          "name": "Lump sum investment strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=ydl328KK-kA"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "pj1pbeE5X5JZZJk",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/b9/iD/b9iDRbtaZkrTmsZ.jpg",
+          "vClubName": "General",
+          "vOwnerId": "hardeep_singh",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "iitian_trader",
+      "vUserId": "iitian_trader",
+      "vName": "Iitian  Trader",
+      "vAbout": "IITian Trader provides Educational Content for earning money through stock market. He has a large base of subscribers on you tube. \r\n\r\nNot only this, but he also provides tips on how to manage your money well. His purpose is to educate his subscribers and training them to perform well in the stock market.\r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/eY/3f/eY3fn3BT3YGOqd5.jpg",
+      "lStrategies": [
+        {
+          "name": "VWAP(Volume weighted average price) strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=O8gRgUx4SKw"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "okgheYE5vQOPmzK",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/eY/3f/eY3fn3BT3YGOqd5.jpg",
+          "vClubName": "General",
+          "vOwnerId": "iitian_trader",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "karan_wadhwani",
+      "vUserId": "karan_wadhwani",
+      "vName": "Karan Wadhwani",
+      "vAbout": "Karan Wadhwani is an independent Professional trader .\r\nThe objective of his channel is to educate the viewers about the core concepts of stock market in a very simple manner.\r\n\r\nHe videos are specifically targeted for the beginners and to teach them how to invest in the stock market. Karan wants to educate new traders and make trading easy for them.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/Xa/IN/XaINX9UDbIi1QFy.jpg",
+      "lStrategies": [
+        {
+          "name": "momentum trading strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=Cj9IBv-8LcU"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "gwRC5UA7SFl7n2Q",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/Xa/IN/XaINX9UDbIi1QFy.jpg",
+          "vClubName": "General",
+          "vOwnerId": "karan_wadhwani",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "koustav_chow",
+      "vUserId": "koustav_chow",
+      "vName": "Koustav Chowdhury",
+      "vAbout": "Koustav Chowdhury is the founder of ‘Fantastic Nifty’ You Tube channel. He explains various concepts of stock market to his viewers in Hindi so that every viewer is able to understand easily. \r\n\r\nHe is an ex-TATA group employee and a NISM certified Research Analyst. The B.Tech engineer creates videos to give his viewers all the latest news and updates about stock market.\r\n\r\nBy following his You Tube channel, you will get to know about the right stocks to invest in and the best advice on long-term multibagger shares. Technical chart analysis of the market is also shared on the platform to help investors make the right decisions while dealing with stocks. ",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/O3/P6/O3P6yz93m6Ar540.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "ai29D2kfiiioQpk",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/O3/P6/O3P6yz93m6Ar540.jpg",
+          "vClubName": "General",
+          "vOwnerId": "koustav_chow",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "kunal_saraogi",
+      "vUserId": "kunal_saraogi",
+      "vName": "Kunal Saraogi",
+      "vAbout": "Kunal Saraogi provides actionable advice and high end research to a large number of professional investors and brokerage houses.\r\nHe also runs highly professional courses in technical analysis for market professionals and traders. His courses have been chosen by over 2000 students of various profiles and experience.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/WF/YS/WFYSDQRkxwVfRVb.jpg",
+      "lStrategies": [
+        {
+          "name": "50 days simple moving average",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=ENRbWJItVh4"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "JqvsGARMn2XfaFR",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/WF/YS/WFYSDQRkxwVfRVb.jpg",
+          "vClubName": "General",
+          "vOwnerId": "kunal_saraogi",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "mahesh_jalan",
+      "vUserId": "mahesh_jalan",
+      "vName": "Mahesh Jalan",
+      "vAbout": "Mahesh Jalan is an actor, Youtuber, astrologer, stock market analyst, motivational speaker and an ex Bigg Boss contestant.\r\n\r\nHe has worked in many Bollywood films like Bonku Babu and Nilacholey Kirti. He also won the best entertainer award which was presented by Mithun Chakraborty in Bigg Boss Bangla season 1 and was invited as a guest in season 2. He also won Didi no 1 and rannaghorer rockstar reality shows.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/Wb/Hw/WbHwPijMPVZZrlp.jpg",
+      "lStrategies": [
+        {
+          "name": "Put call ratio strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=GfhqZclCOac"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "rzeNslUyTmR8UE1",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/Wb/Hw/WbHwPijMPVZZrlp.jpg",
+          "vClubName": "General",
+          "vOwnerId": "mahesh_jalan",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "maneish_sinha",
+      "vUserId": "maneish_sinha",
+      "vName": "Maneish Sinha",
+      "vAbout": "The channel provides videos regarding technical analysis of stock market charts. Everything is explained  in a very simple manner so that the viewer is able to understand and learn everything. \r\n\r\nThe purpose of these videos is that after watching the video, the viewer should be able to do his/her own technical analysis.\r\n\r\nAccording to Maneish, the moto of the channel is to provide true and simple concepts of technical analysis to the retail investor so that they can make money from  the stock market.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/WX/io/WXiorj3QWUBAjlK.jpg",
+      "lStrategies": [
+        {
+          "name": "Momentum trading",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=rBGuhm1DmDU"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "7BE0E7CpAtiYNV9",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/WX/io/WXiorj3QWUBAjlK.jpg",
+          "vClubName": "General",
+          "vOwnerId": "maneish_sinha",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "manoj_jain",
+      "vUserId": "manoj_jain",
+      "vName": "Manoj Jain",
+      "vAbout": "Manoj Kumar Jain is a Chartered Accountant as well as a Cost Accountant.\r\n\r\nHe is a NATIONAL TALENT SEARCH SCHOLAR, which was awarded by NCERT.\r\n\r\nStood 32nd in ALL India Secondary Schools Examination.\r\nHe completed his B. Com(H) from Shri Ram College of Commerce (SRCC), and obtained 9th Position in Delhi University.\r\n\r\nHe has been Rank Holder as well as NORTH INDIA TOPPER in\r\nCA Inter with 31st Rank in All India\r\nCA Final with 17th Rank in All India\r\nICWA Inter with 14th Rank in All India\r\nICWA Final with 17th Rank in All India.\r\nHe has been Awarded Kulpati Gold Medal.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/rc/6Q/rc6QhXf4nNW0Lr0.jpg",
+      "lStrategies": [
+        {
+          "name": "MKJ ICS strategy ",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=Y6U5OIC-Wu4"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "xSqYOangdGnVd1q",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/rc/6Q/rc6QhXf4nNW0Lr0.jpg",
+          "vClubName": "General",
+          "vOwnerId": "manoj_jain",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "mr_scalper",
+      "vUserId": "mr_scalper",
+      "vName": "Mr. Scalper",
+      "vAbout": "Sanchit(Mr. Scalper) believes that he is an ordinary trader just like many others. Aim of his channel is to spread awareness amongst the common trader of India. \r\n\r\nHe believes that earning through share market is a very easy task if one applies some very simple techniques. He/She must also learn how to avoid traps set up by operators.  ",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/IB/Uj/IBUjwSfE7qV704w.jpg",
+      "lStrategies": [
+        {
+          "name": "Butterfly option strategy",
+          "points": "300",
+          "url": "https://www.youtube.com/watch?v=HU31ER42Zms"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "OFzUWwaaL88D1Cw",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/IB/Uj/IBUjwSfE7qV704w.jpg",
+          "vClubName": "General",
+          "vOwnerId": "mr_scalper",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "mukul_agrawal",
+      "vUserId": "mukul_agrawal",
+      "vName": "Mukul Agrawal",
+      "vAbout": "Dr. Mukul Agrawal in his You Tube channel gives information about various topics related to finance and stock market. He explains everything in a very simple manner so that even beginners can understand easily.\r\n\r\nHe provides information about stock market from basic to advance level. He is a Guinness book world record holder. He discusses various intraday as well as swing trading strategies.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/6Q/lY/6QlYIEFztBoKmhK.jpg",
+      "lStrategies": [
+        {
+          "name": "supertrend trading strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=34KMjAMh_yM"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "T3OjAJbRQ2lQctE",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/6Q/lY/6QlYIEFztBoKmhK.jpg",
+          "vClubName": "General",
+          "vOwnerId": "mukul_agrawal",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "neeraj_arora",
+      "vUserId": "neeraj_arora",
+      "vName": "Neeraj Arora",
+      "vAbout": "Neerja Arora, the owner of the You Tube channel Fin91 is very passionate about teaching.\r\nHe has trained more than 50000 CA CS CWA BBA MBA Students\r\n\r\n\r\nThe purpose of his you tube channel is to provide guidance on stock market for beginners. He wants his viewers to invest their money in the right places and make money from stock market. He also shares knowledge about mutual funds on his channel.\r\n\r\n\r\n\r\n\r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/3x/Ew/3xEw35BPeUBAEim.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "VhiS6Y0cGzj16Oa",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/3x/Ew/3xEw35BPeUBAEim.jpg",
+          "vClubName": "General",
+          "vOwnerId": "neeraj_arora",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "neeraj_joshi",
+      "vUserId": "neeraj_joshi",
+      "vName": "Neeraj Joshi",
+      "vAbout": "Neeraj Joshi teaches his subscribers about stock market, investment, trading, fundamental & technical analysis, mutual funds, IPO & similar topics related to stock market.\r\n\r\nHe explains vividly how to earn money from Share market. He wants his subscribers and viewers to become well educated about stock market and other related stuff.\r\n\r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/lT/ql/lTqle9jUvPrTw7F.jpg",
+      "lStrategies": [
+        {
+          "name": "VWAP + Moving averages ",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=GXSNSC3LHZY"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "guApYw6V5v55aEV",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/lT/ql/lTqle9jUvPrTw7F.jpg",
+          "vClubName": "General",
+          "vOwnerId": "neeraj_joshi",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "nishant",
+      "vUserId": "nishant",
+      "vName": "Nishant Tanwar",
+      "vAbout": "blah",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/XN/Z6/XNZ6B4VKNpWFQji.jpg",
+      "lStrategies": null,
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "certified_analyst",
+      "lClubs": [
+        {
+          "vId": "breakouts",
+          "vImage": "/images/kmaai/media/profile_images/br/ea/breakouts_traders_250px.jpg",
+          "vLogoURL": "/images/kmaai/media/profile_images/br/ea/breakouts_traders_500px.jpg",
+          "vOwnerProfilePicURL": null,
+          "vClubName": "Breakouts Traders",
+          "vOwnerId": "nishant",
+          "vClubType": "trading",
+          "vClubSubtype": null,
+          "mClubAttrs": {
+            "Candle": "5/10/15 min",
+            "Strategy": "Priceaction",
+            "Return": "20%/month"
+          },
+          "vSubscription": "premium",
+          "vUserType": "certified_analyst",
+          "lSampleSubscriberProfilePics": [
+            "/images/kmaai/gps/d/5e6888e66d3b380006f21c8d.png/Zw.png",
+            "/images/kmaai/gps/f/5e6889236d3b380006f22a1f.png/Zw.png",
+            "/images/kmaai/gps/3/5e6888fb6d3b380006f22113.png/Zw.png",
+            "/images/kmaai/gps/5/5e6888d86d3b380006f21975.png/Zw.png",
+            "/images/kmaai/gps/b/5e68890f6d3b380006f2259b.png/Zw.png",
+            "/images/kmaai/gps/1/5e6888df6d3b380006f21b01.png/Zw.png",
+            "/images/kmaai/gps/3/5e6889366d3b380006f22e83.png/Zw.png",
+            "/images/kmaai/gps/1/5e6888d66d3b380006f21921.png/Zw.png",
+            "/images/kmaai/gps/b/5e6888dd6d3b380006f21a9b.png/Zw.png",
+            "/images/kmaai/gps/b/5e68892d6d3b380006f22c7b.png/Zw.png"
+          ],
+          "iSubscribersCount": 511
+        },
+        {
+          "vId": "fno_tigers",
+          "vImage": "/images/kmaai/media/profile_images/fn/ot/fno_tigers_250px.jpg",
+          "vLogoURL": "/images/kmaai/media/profile_images/fn/ot/fno_tigers_500px.png",
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/XN/Z6/XNZ6B4VKNpWFQji.jpg",
+          "vClubName": "F&O Tigers",
+          "vOwnerId": "nishant",
+          "vClubType": "trading",
+          "vClubSubtype": null,
+          "mClubAttrs": {
+            "profit": "100% percent/annum",
+            "drawdown": "Rs 10,000"
+          },
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": [
+            "/images/kmaai/gps/b/5e68892d6d3b380006f22c7b.png/Zw.png",
+            "/images/kmaai/gps/5/5e6888d86d3b380006f21975.png/Zw.png",
+            "/images/kmaai/gps/b/5e68891e6d3b380006f2290b.png/Zw.png",
+            "/images/kmaai/gps/d/5e6889146d3b380006f226bd.png/Zw.png",
+            "/images/kmaai/gps/3/5e6889366d3b380006f22e83.png/Zw.png",
+            "/images/kmaai/gps/f/5e6889236d3b380006f22a1f.png/Zw.png",
+            "/images/kmaai/gps/1/5e6888df6d3b380006f21b01.png/Zw.png",
+            "/images/kmaai/gps/1/5e6888fe6d3b380006f221c1.png/Zw.png",
+            "/images/kmaai/gps/d/5e68892e6d3b380006f22cbd.png/Zw.png",
+            "/images/kmaai/gps/7/5e6888eb6d3b380006f21d87.png/Zw.png"
+          ],
+          "iSubscribersCount": 435
+        },
+        {
+          "vId": "ohyCzRqg238v2SP",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/XN/Z6/XNZ6B4VKNpWFQji.jpg",
+          "vClubName": "General",
+          "vOwnerId": "nishant",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "powerof_stocks",
+      "vUserId": "powerof_stocks",
+      "vName": "Power Of  Stocks",
+      "vAbout": "The main motive of this channel is to teach everyone how to trade without wasting a lot of money.\r\n\r\nAccording to the owner of this channel, trading is a very rewarding business. You just need to  follow some simple  rules, believe in yourself and be disciplined. A trader must also consider following proper risk management.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/Rg/OC/RgOC1oTZ6f4drMJ.jpg",
+      "lStrategies": [
+        {
+          "name": "Inside candle strategy",
+          "points": "400",
+          "url": "https://www.youtube.com/watch?v=rIHcv2fdom8"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "l8cRZCD6x2kGDC9",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/Rg/OC/RgOC1oTZ6f4drMJ.jpg",
+          "vClubName": "General",
+          "vOwnerId": "powerof_stocks",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "pr_sundar",
+      "vUserId": "pr_sundar",
+      "vName": "Pr  Sundar",
+      "vAbout": "PR Sundar started stock market trading in 2007. He believes that it’s not just the stock markets, but life too is about uncertainty and hence, the popular options trader believes in the unpopular view that saving is overrated and spending is underrated. \r\n\r\nPR Sundar comes from an economically weak family of eight children in Chennai. After completing his post graduation from Chennai, he took up a job as a Mathematics teacher in Gujarat. This is where he learnt the ropes of stock market trading from his Gujarati friends. Over the years, Sundar’s trading capital has soared to over Rs 50 crore with the trader claiming to have made a profit of Rs 20 crore last year from trading and other ventures.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/Ur/cr/UrcrYQeM8VMWDG3.jpg",
+      "lStrategies": [
+        {
+          "name": "Selling a short straddle",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=19TT0OMpb-o"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "S6l6OjtbATaGUuw",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/Ur/cr/UrcrYQeM8VMWDG3.jpg",
+          "vClubName": "General",
+          "vOwnerId": "pr_sundar",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "prabhat_kumar",
+      "vUserId": "prabhat_kumar",
+      "vName": "Prabhat Kumar",
+      "vAbout": "Prabhat Kumar is the founder of ‘Prabhat Trading Service’ You Tube channel. He creates content about stock market in Hindi so that it is easy for everyone to understand. \r\n\r\nHe creates videos on the best stocks to buy for short-term or Intraday trading. His predictions hardly go wrong and this is the reason why the channel has amassed a lot of followers in a short period of time. If you are a newbie or someone looking to gather knowledge about stocks then do check out his channel.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/Yp/yx/YpyxSSvzDQQkpVD.jpg",
+      "lStrategies": [
+        {
+          "name": "Loss recover strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=zyBtss1ZE6E"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "f5XkjiPx8AFBCUc",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/Yp/yx/YpyxSSvzDQQkpVD.jpg",
+          "vClubName": "General",
+          "vOwnerId": "prabhat_kumar",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "pranjal_kamra",
+      "vUserId": "pranjal_kamra",
+      "vName": "Pranjal Kamra",
+      "vAbout": "Pranjal Kamra's channel is dedicated to value investing.\r\n\r\nHere you will find videos on value investing, stock analysis and behavioural finance. \r\n\r\nThe sole purpose of this channel is to help you become a rational investor.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/yt/6i/yt6iYP25RdmUyke.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "Na9gAEJ4Fnj8jNv",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/yt/6i/yt6iYP25RdmUyke.jpg",
+          "vClubName": "General",
+          "vOwnerId": "pranjal_kamra",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "prasad_lendwe",
+      "vUserId": "prasad_lendwe",
+      "vName": "Prasad Lendwe",
+      "vAbout": "Prasad's You Tube channel Convey by innovation Z has 700 + videos dedicated to teaching stock market for beginners and intermediate investment, value investing, taxation, budget, IPO analysis, fundamental analysis, mutual fund, stock analysis, taxation, scam prevention and much more. \r\n\r\nThe channel started is journey on Jan 13 2014 and has changed the life of many Indian youth, helping them become financially literate and independent.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/Aq/ZH/AqZHPmb1IZFzMSD.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "3v5mTghpsZqWSXX",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/Aq/ZH/AqZHPmb1IZFzMSD.jpg",
+          "vClubName": "General",
+          "vOwnerId": "prasad_lendwe",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "pravin_khetan",
+      "vUserId": "pravin_khetan",
+      "vName": "Pravin Khetan",
+      "vAbout": "Pravin Khetan in his yotube channel shares his knowledge about stock market, share trading, technical analysis, future and options and almost everything related to finance.\r\n\r\nHe is an MBA in International Business with major in finance.\r\nHe has trained over 15,000+ students at FMS-Delhi University, BITS-Pilani, IMT, IMS and other top-colleges in India. \r\nHe is a visiting faculty at National Stock Exchange. He has trained working professionals from 26 states and 20+ countries.\r\nHe is also a corporate consultant in stock broking industry. \r\nHe is an entrepreneur, analyst, consultant, active investor and trader in stock market.\r\n\r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/sT/Eh/sTEh94vGJwSy0Hj.jpg",
+      "lStrategies": [
+        {
+          "name": "moving averages trading strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=2amG5bhpjb4"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "tNZBqGOONpbWxju",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/sT/Eh/sTEh94vGJwSy0Hj.jpg",
+          "vClubName": "General",
+          "vOwnerId": "pravin_khetan",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "pro_faiz",
+      "vUserId": "pro_faiz",
+      "vName": "Procapital Mohdfaiz",
+      "vAbout": "Mohamamad Faiz is running this channel to help everyone create wealth. he wants everyone to live a prosperous life . \r\n\r\nHe provides his subscribers with quality information so that they are always updated and have an edge over other traders.\r\nAnother purpose of his channel is to help his subscribers make well informed decisions.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/kv/t9/kvt97l6jvdsYaox.jpg",
+      "lStrategies": [
+        {
+          "name": "Moving averages trading strategies",
+          "points": "350",
+          "url": "https://www.youtube.com/watch?v=vGmV4M3Or9s"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "45qdsSlxQi4N38E",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/kv/t9/kvt97l6jvdsYaox.jpg",
+          "vClubName": "General",
+          "vOwnerId": "pro_faiz",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "pushkar_thakur",
+      "vUserId": "pushkar_thakur",
+      "vName": "Pushkar Thakur",
+      "vAbout": "Pushkar Raj Thakur is India's Leading Business Coach, Finance Educator & Motivational Speaker. \r\n\r\nHe is known for his versatile knowledge on Financial Education, Personal Mastery, Sales, Marketing, Human Psychology & Business Development. ",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/WP/Cp/WPCpfuLZKmOHoj1.jpg",
+      "lStrategies": [
+        {
+          "name": "MACD + VWAP + Supertrend",
+          "points": "550",
+          "url": "https://www.youtube.com/watch?v=gkD-PByfhWM&t=378s"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "chDbZt5IhvDiDHF",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/WP/Cp/WPCpfuLZKmOHoj1.jpg",
+          "vClubName": "General",
+          "vOwnerId": "pushkar_thakur",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "rachana_ranade",
+      "vUserId": "rachana_ranade",
+      "vName": "Rachana Ranade",
+      "vAbout": "Rachana Ranade teaches you from basic to advance level concepts of stock markets in a very easy to understand manner. She teaches her subscribers about technical as well as fundamental analysis. \r\n\r\nShe has the objective of building financial discipline in the masses by simplifying Stock Market Education and Financial concepts. \r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/3u/OQ/3uOQpVvBMSetJRG.jpg",
+      "lStrategies": [
+        {
+          "name": "RR super trending strategy",
+          "points": "200",
+          "url": "https://www.youtube.com/watch?v=7Onpd8iMXpQ"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "KIamIzvJX9OOJvg",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/3u/OQ/3uOQpVvBMSetJRG.jpg",
+          "vClubName": "General",
+          "vOwnerId": "rachana_ranade",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "raunak_a",
+      "vUserId": "raunak_a",
+      "vName": "Raunak A..",
+      "vAbout": "This channel is about trading and investing in stock market. Most of the videos here would revolve around trading in stocks, investment in stocks, risk management and stock market psychology. \r\n\r\nRaunak intends to cover stocks, futures, ETF's and Options Trading along with topics on technical analysis and fundamental analysis.\r\n\r\n\r\nThe objective of this channel is to increase awareness among investors and traders and to help them get better at what they do. Raunak truly believes that stock market education should be accessible for all. \r\n\r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/8f/Fx/8fFxPysH4ho6M2e.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "mh2he3KdcBgGSHl",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/8f/Fx/8fFxPysH4ho6M2e.jpg",
+          "vClubName": "General",
+          "vOwnerId": "raunak_a",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "ravinder_vats",
+      "vUserId": "ravinder_vats",
+      "vName": "Ravinder Vats",
+      "vAbout": "Ravindra Vats is a certified chartered accountant. He is also a stock market expert and analyst who lives by the Motto \"In investing what is comfortable is rarely profitable\". He runs his own You Tube channel by the name \"CA Ravinder Vats\".\r\n\r\nRavindra Vats created his channel on June 7, 2019 but had already started actively creating videos on stock market, option selling, result analysis, interest rate, nifty, bank nifty before that.\r\n\r\nHe explains everything in a very simple manner so that even beginners can understand everything easily.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/4W/dC/4WdCmdpWIY1AauU.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "LKEnGTWygVbIjJf",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/4W/dC/4WdCmdpWIY1AauU.jpg",
+          "vClubName": "General",
+          "vOwnerId": "ravinder_vats",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "reyaansh_upadhy",
+      "vUserId": "reyaansh_upadhy",
+      "vName": "Reyaansh Upadhyay",
+      "vAbout": "Reyaansh Upadhyay is a derivative trader, index trader, positional options seller and strategist with more than 8 years of trading experience. \r\n\r\nHe wishes to empower his fellow finance peers to acquire the best stock market knowledge. Reyaansh created his YouTube channel \"Theta Gainers\" on June, 12 2014 with this thought in mind.\r\n\r\nReyaansh has made more than 250 videos on options analysis, live trading, intraday trading, options selling/analysis, Bitcoin, cryptocurrency, Nifty weekly range, weekly options, regular monthly income strategy Bank Nifty, selling strategies etc. ",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/n7/lO/n7lO9D8Hn1nJiB1.jpg",
+      "lStrategies": [
+        {
+          "name": "Balanced calendar spread",
+          "points": "",
+          "url": "https://youtu.be/M51L5OXN-E4"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "24qZYQi4bTCIfWO",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/n7/lO/n7lO9D8Hn1nJiB1.jpg",
+          "vClubName": "General",
+          "vOwnerId": "reyaansh_upadhy",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "rohit_rohra",
+      "vUserId": "rohit_rohra",
+      "vName": "Rohit Rohra",
+      "vAbout": "Rohit Rohra is Indian stock market trader and trainer. He started trading at a very young age by self-learning every vertical of trading. \r\n\r\nThe acquired insights helped Rohit create a tangible and effective approach to the stock market. The YouTuber has over years of experience in the niche. He created his You Tube channel VP financial as a means to impart knowledge and skills to his fellow finance enthusiasts. VP financial is a channel dedicated to intraday trading, live trading, swing trading, Bank Nifty trading and price action trading. Rohit strives to give traders the right head start towards a lucrative career in today's market.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/jW/Qq/jWQq3kLPrnsS5FK.jpg",
+      "lStrategies": [
+        {
+          "name": "supertrend + inside candle strategy",
+          "points": "",
+          "url": "https://youtu.be/g9hVLTgqqJk"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "wNUBFvdpUkjeyJc",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/jW/Qq/jWQq3kLPrnsS5FK.jpg",
+          "vClubName": "General",
+          "vOwnerId": "rohit_rohra",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "sahil_bhadviya",
+      "vUserId": "sahil_bhadviya",
+      "vName": "Sahil Bhadviya",
+      "vAbout": "Sahil Bhadviya is a personal finance coach from Udaipur. \r\nHe created his You Tube channel in 2019 with the goal of spreading financial knowledge to help people make informed investment decisions. The knowledge in his videos help avoid financial traps. \r\n\r\nHe discusses a wide array of topics including company stocks, gold, taxation, mutual funds, insurance, IPOs, future growth prospects, NFO etc. He also compares stocks, provides cool finance hacks, covers latest finance news, organizes Q&A sessions and reviews popular case studies. ",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/Rz/lQ/RzlQ2ZhVOpTCobo.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "BAOyGhfJ6YG6ix5",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/Rz/lQ/RzlQ2ZhVOpTCobo.jpg",
+          "vClubName": "General",
+          "vOwnerId": "sahil_bhadviya",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "sandeep_...",
+      "vUserId": "sandeep_...",
+      "vName": "Sandeep ...",
+      "vAbout": "You Tube channel \"San tech\" was created on September 22 2018 by the channel owner Sandeep. San tech began as a tech review channel but eventually transitioned into finance.\r\n\r\nThe channel includes various topics like Zerodha money withdrawal, stock market, dividends, option trading, penny stocks, future and options, LIC IPOs, option trading, nifty, bank nifty and much more.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/3C/qJ/3CqJRvMEDRu7QOm.jpg",
+      "lStrategies": [
+        {
+          "name": "zero or hero strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=UAmSgktDnxo"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+
+      ]
+    },
+    {
+      "vInfluencerId": "shakti_bahl",
+      "vUserId": "shakti_bahl",
+      "vName": "Shakti Bahl",
+      "vAbout": "Shakti Bahl is a trader and investor who had a rocky start. He enrolled in many courses and tried understanding complex strategies. But even after his strenuous journey Shakti incurred significant losses. \r\n\r\nHowever, he never gave up and through hard work and perseverance became one of the most followed finance YouTubers in India. For him the key was having the right mind-set and that is exactly what Shakti wants to teach his viewers through his You Tube channel \"Conceptual Trading\".\r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/k4/h4/k4h4JvHEcdjqxtR.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "GoXTYbFida1lkfR",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/k4/h4/k4h4JvHEcdjqxtR.jpg",
+          "vClubName": "General",
+          "vOwnerId": "shakti_bahl",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "sidharth_bhanu",
+      "vUserId": "sidharth_bhanu",
+      "vName": "Sidharth Bhanushali",
+      "vAbout": "Siddharth Bhanushali is a professional trader, Investor, and Serial Entrepreneur.  He is a co-founder and promoter of Siddharth Bhanushali Advisory Pvt Ltd. \r\n\r\nHe was exposed to entrepreneurialism at a young age and started his journey into the stock market at the young age of 18 years. He witnessed a lot of ups and downs in his early trading days. In his pursuit to become a professional Trader and after years of effort and hard work, he became profitable and more consistent with his Trading. \r\n\r\nIn 2012, he along with a small team of traders started managing clients' funds and their portfolios. In 2017, He started educating people & made it a personal mission to make a positive impact on the financial life of 1 crore families by 2025. \r\n\r\nHe started putting quality educational content on his YouTube channel just after the Covid19 outbreak in 2020. The quality of the content and followers' trust and love has helped the channel to grow to 950K+ subscribers organically in less than 2 years.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/ob/0e/ob0eBvBroW7Gqx1.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "BKkXt7q0j5ylxCa",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/ob/0e/ob0eBvBroW7Gqx1.jpg",
+          "vClubName": "General",
+          "vOwnerId": "sidharth_bhanu",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "stock_pro",
+      "vUserId": "stock_pro",
+      "vName": "Stock Pro",
+      "vAbout": "Stock Pro You Tube channel is spearheaded by Dr. Seema Jain (Ph.D. IIT Delhi). She is an active investor in stock market, educationist, trainer & Life coach. \r\n\r\nHer forte is technical analysis mainly moving averages and candles. In her team she has qualified CA’s well known stock brokers & research analysts for giving you best research in stock market.\r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/AP/qD/APqDdM6WMHxowJZ.jpg",
+      "lStrategies": [
+        {
+          "name": "50 SMA strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=mmRrmzrg0hI"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "Kzsm6eN3T0D8Ksv",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/AP/qD/APqDdM6WMHxowJZ.jpg",
+          "vClubName": "General",
+          "vOwnerId": "stock_pro",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "sunil_minglani",
+      "vUserId": "sunil_minglani",
+      "vName": "Sunil Minglani",
+      "vAbout": "Sunil Minglani is a known expert on behavioral aspects of Stock Markets who has now decided to apply the same human principles in life transformation and mentoring. \r\nSunil has rich experience in analyzing stock and chart patterns which he has co-related with human psychological patterns at a deeper level. ",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/c7/bE/c7bE4E4kWXZIcEE.jpg",
+      "lStrategies": [
+        {
+          "name": "Average traded price(ATP) of a stock",
+          "points": "200",
+          "url": "https://www.youtube.com/watch?v=EE3AftNnVNk&t=286s"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "l9rzSX5FAbuRaY3",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/c7/bE/c7bE4E4kWXZIcEE.jpg",
+          "vClubName": "General",
+          "vOwnerId": "sunil_minglani",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "super_lakshya",
+      "vUserId": "super_lakshya",
+      "vName": "Super Trader Lakshya",
+      "vAbout": "Lakshya is a stock market trader since 2008. He firmly believes that stock market is one of the most powerful ways of generating income.\r\n\r\nAccording to him, if people focus on learning the basics of stock market, they can generate a lot of earnings.\r\n",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/qO/yi/qOyilN3dtUeyn9Q.jpg",
+      "lStrategies": [
+        {
+          "name": "scalping strategy",
+          "points": "300",
+          "url": "https://www.youtube.com/watch?v=E-bmcLvk2C0"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "aRS2wDAAFyv0T3h",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/qO/yi/qOyilN3dtUeyn9Q.jpg",
+          "vClubName": "General",
+          "vOwnerId": "super_lakshya",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "trade_chanakya",
+      "vUserId": "trade_chanakya",
+      "vName": "Trading Chanakya",
+      "vAbout": "Trading Chanakya  is a you tube channel which provides best stock market technical analysis knowledge for beginners and professionals as well. \r\n\r\nThe owner of the channel, Mr. Anmol Mittal always tries to provide the viewers the best content and best strategies for improving the viewers trading life.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/GR/5N/GR5NU33fQti5D5G.jpg",
+      "lStrategies": [
+        {
+          "name": "Scalping Intraday(Marubozu) strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=B2eaod6Xl38&t=76s"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "vhNZHn8POIPXEs3",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/GR/5N/GR5NU33fQti5D5G.jpg",
+          "vClubName": "General",
+          "vOwnerId": "trade_chanakya",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "umar_punjabi",
+      "vUserId": "umar_punjabi",
+      "vName": "Umar Punjabi",
+      "vAbout": "Umar Punjabi is amongst the youngest stock market influencers in India with just over 5 years of experience. \r\n\r\nUmar acquired knowledge from multiple sources and after compiling his vast insights, he has come up with his You Tube channel \"The Alpha Trader\". Umar teaches his viewers about various concepts of stock market and also explains several trading techniques in a very simple manner.\r\n\r\nHe has uploaded over 128 videos on various topics like trading, profit and loss, market analysis, option trading, price action trading essentials, fundamentals/technical analysis, cryptocurrency, candlesticks, BankNifty/Nifty, share market news etc. He also recommends books and interviews some of the top traders and entrepreneurs in India. ",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/18/wx/18wx2wGxOYuOt9z.jpg",
+      "lStrategies": [
+        {
+          "name": "breakout trading strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=1UFcS9AwIp0"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "DmXkeQSu1YTQfot",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/18/wx/18wx2wGxOYuOt9z.jpg",
+          "vClubName": "General",
+          "vOwnerId": "umar_punjabi",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "vishal_malkan",
+      "vUserId": "vishal_malkan",
+      "vName": "Vishal Malkan",
+      "vAbout": "VISHAL is one of the top coaches in the areas of stock trading.\r\n\r\nVenturing into this journey at the young age of 16, he experienced the thick and thins of the stock market before achieving success as a trader.\r\n\r\nDuring the 26 years of his trading career, he learned various theories, approaches and concepts. He now wants his viewers to learn them through his You Tube channel.\r\n\r\nHe has made it a personal mission to help a common man understand and trade the stock markets with the help of systems so simple that even a 10-year old child can understand them.\r\n\r\nVishal’s passion and natural leadership skills have helped propel him into a successful trainer, coach, and role model.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/Ww/Xa/WwXa4AG8OIQoujb.jpg",
+      "lStrategies": [
+        {
+          "name": "",
+          "points": "",
+          "url": ""
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "H5KLc0mTj6wZkXH",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/Ww/Xa/WwXa4AG8OIQoujb.jpg",
+          "vClubName": "General",
+          "vOwnerId": "vishal_malkan",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "vivek_bajaj",
+      "vUserId": "vivek_bajaj",
+      "vName": "Vivek Bajaj",
+      "vAbout": "Vivek Bajaj has a vision to simplify finance for everyone. He has over 15 years of experience in the financial market. He is a chartered accountant and company secretary and has an MBA from IIM Indore. \r\nHe began his career as an analyst and created one of the largest derivatives trading desks in eastern India with over 150 traders and one of the top algo trading desks in Mumbai. He is passionate about data, technology, and education. For the last six years, he has empowered people with the proper learning and analytics in finance through his online ventures elearnmarkets.com and StockEdge.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/RQ/Uy/RQUyomOYGTdBn84.jpg",
+      "lStrategies": [
+        {
+          "name": "effective relative strength trading strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=daWNAd6a8M8"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "8OhXYYUJfLRjLXk",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/RQ/Uy/RQUyomOYGTdBn84.jpg",
+          "vClubName": "General",
+          "vOwnerId": "vivek_bajaj",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    },
+    {
+      "vInfluencerId": "vivek_singhal",
+      "vUserId": "vivek_singhal",
+      "vName": "Vivek Singhal",
+      "vAbout": "According to Vivek Singhal, investment or trading is one of the best ways to make sure your money grows with time, but to make the right decisions you need to have the correct knowledge. \r\n\r\nTrading with Vivek is one such channel that can provide you with knowledge regarding it with real-life examples and in a language that the viewers will easily understand.\r\n\r\nEach topic is covered from basic to advanced level to help you make a career out of it. Vivek, the owner of the channel makes sure he is consistent with his content and solves each and every doubt that any viewer might have.",
+      "fPoints": 0,
+      "vProfileImage": "/images/kmaai/media/profile_images/pN/zc/pNzcX6XepGYstsJ.jpg",
+      "lStrategies": [
+        {
+          "name": "v40 strategy",
+          "points": "",
+          "url": "https://www.youtube.com/watch?v=Cfwz2FO0Nlg"
+        }
+      ],
+      "vStatus": "active",
+      "lRoles": [
+        "user"
+      ],
+      "vUserType": "common",
+      "lClubs": [
+        {
+          "vId": "VBbqxRm7hFrRag0",
+          "vImage": null,
+          "vLogoURL": null,
+          "vOwnerProfilePicURL": "/images/kmaai/media/profile_images/pN/zc/pNzcX6XepGYstsJ.jpg",
+          "vClubName": "General",
+          "vOwnerId": "vivek_singhal",
+          "vClubType": "general",
+          "vClubSubtype": null,
+          "mClubAttrs": null,
+          "vSubscription": "free",
+          "vUserType": "common",
+          "lSampleSubscriberProfilePics": null,
+          "iSubscribersCount": 0
+        }
+      ]
+    }
+  ]
+}
 }
